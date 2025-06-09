@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "integer_four_arithmetic/1.0.0": {
+        "runtime": {
+          "integer_four_arithmetic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "integer_four_arithmetic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

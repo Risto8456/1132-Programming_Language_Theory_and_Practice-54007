@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\bin\Debug\net8.0-windows\integer_four_arithmetic.exe
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\bin\Debug\net8.0-windows\integer_four_arithmetic.deps.json
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\bin\Debug\net8.0-windows\integer_four_arithmetic.runtimeconfig.json
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\bin\Debug\net8.0-windows\integer_four_arithmetic.dll
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\bin\Debug\net8.0-windows\integer_four_arithmetic.pdb
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.Form1.resources
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.csproj.GenerateResource.cache
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.AssemblyInfo.cs
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.dll
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\refint\integer_four_arithmetic.dll
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.pdb
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\integer_four_arithmetic.genruntimeconfig.cache
+C:\Users\User\source\repos\integer_four_arithmetic\integer_four_arithmetic\obj\Debug\net8.0-windows\ref\integer_four_arithmetic.dll
