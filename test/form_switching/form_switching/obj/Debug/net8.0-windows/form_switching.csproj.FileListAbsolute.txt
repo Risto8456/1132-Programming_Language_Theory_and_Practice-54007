@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\form_switching\form_switching\bin\Debug\net8.0-windows\form_switching.exe
+C:\Users\User\source\repos\form_switching\form_switching\bin\Debug\net8.0-windows\form_switching.deps.json
+C:\Users\User\source\repos\form_switching\form_switching\bin\Debug\net8.0-windows\form_switching.runtimeconfig.json
+C:\Users\User\source\repos\form_switching\form_switching\bin\Debug\net8.0-windows\form_switching.dll
+C:\Users\User\source\repos\form_switching\form_switching\bin\Debug\net8.0-windows\form_switching.pdb
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.Form1.resources
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.Form2.resources
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.csproj.GenerateResource.cache
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.AssemblyInfo.cs
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.dll
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\refint\form_switching.dll
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.pdb
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\form_switching.genruntimeconfig.cache
+C:\Users\User\source\repos\form_switching\form_switching\obj\Debug\net8.0-windows\ref\form_switching.dll
