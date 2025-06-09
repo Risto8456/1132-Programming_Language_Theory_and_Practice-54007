@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HW14\HW14\bin\Debug\net8.0-windows\HW14.exe
+C:\Users\User\source\repos\HW14\HW14\bin\Debug\net8.0-windows\HW14.deps.json
+C:\Users\User\source\repos\HW14\HW14\bin\Debug\net8.0-windows\HW14.runtimeconfig.json
+C:\Users\User\source\repos\HW14\HW14\bin\Debug\net8.0-windows\HW14.dll
+C:\Users\User\source\repos\HW14\HW14\bin\Debug\net8.0-windows\HW14.pdb
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.Form1.resources
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.AssemblyInfo.cs
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.dll
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\refint\HW14.dll
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.pdb
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\HW14.genruntimeconfig.cache
+C:\Users\User\source\repos\HW14\HW14\obj\Debug\net8.0-windows\ref\HW14.dll
